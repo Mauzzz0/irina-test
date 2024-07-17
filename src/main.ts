@@ -1,5 +1,5 @@
 const musicReady = true;
 if (musicReady) {
-  console.log('Музыка готова');
+  console.log('Музыка готова второй раз!');
 }
 //
