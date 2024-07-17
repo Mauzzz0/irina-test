@@ -8,3 +8,4 @@ const booksReady = true;
 if (booksReady) {
   console.log('Книги готовы!');
 }
+// Новый раздел с машина!
